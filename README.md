@@ -3,7 +3,7 @@
 
 
 ## linkes
-* [PR](https://github.com/GhofranDayyat/auth-api/pull/2)
+* [PR](https://github.com/GhofranDayyat/auth-api/pull/3)
 * [Heroku](https://auth-api-gh.herokuapp.com/)
 * [GitHub Action](https://github.com/GhofranDayyat/auth-api/actions)
 
